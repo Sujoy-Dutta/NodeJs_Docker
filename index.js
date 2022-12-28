@@ -6,13 +6,6 @@ app.get("/", (req,res)=>{
 });
 
 
-
-
-
-
-
-
-
-app.listen(8000, () =>{
-console.log("App is running at 8000");
+app.listen(4000, () =>{
+console.log("App is running at 3000");
 });
